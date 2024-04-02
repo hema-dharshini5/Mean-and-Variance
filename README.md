@@ -1,5 +1,7 @@
 #  Mean and variance of a discrete  distribution
 
+                                                               ### Name : Hema Dharshini N
+                                                               ### Register number: 212223220034
 
 # Aim : 
 
